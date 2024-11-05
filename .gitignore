@@ -3,5 +3,6 @@
 bin
 obj
 *.http
-appsettings.josn
+appsettings.json
+README.md
 Migrations
